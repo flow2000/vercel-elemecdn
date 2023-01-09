@@ -1,2 +1,2 @@
-# vercel-jsdelivr
-代理jsdelivr
+# vercel-elemecdn
+代理elemecdn
